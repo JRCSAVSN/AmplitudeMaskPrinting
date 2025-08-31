@@ -1,0 +1,12 @@
+pattern: "radial"
+
+params:
+  H: 74000
+  W: 74000
+  n_rays: 35
+  white_pixel_ratio: 6
+
+slicing:
+  max_height: 1792
+
+save_path: "/media/vieira/Novo volume/masks_to_print/radial_cyclic_6per/"
